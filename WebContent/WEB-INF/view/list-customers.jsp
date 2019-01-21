@@ -7,6 +7,6 @@
 <title>List customers</title>
 </head>
 <body>
-<p>List customers coming soon ...</p>
+<p>List customers coming soon ...pushed from eclipse</p>
 </body>
 </html>
